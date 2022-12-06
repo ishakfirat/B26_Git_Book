@@ -1,0 +1,14 @@
+
+
+So far we learned git flow for
+commit---> push
+
+and
+
+remote -> local
+pull/update
+
+
+Allah öldürür dünyadan alır 
+Sen bemi öldürdün dünyada bıraktın
+
