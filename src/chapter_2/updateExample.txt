@@ -6,3 +6,9 @@ We are updating
 
 Allah öldürür dünyadan alır
 Sen beni öldürdün hayatta bıraktın
+
+Added some text
+
+
+Allah öldürür dünyadan alır 
+sen beni öldürdün hayatta bıraktın
